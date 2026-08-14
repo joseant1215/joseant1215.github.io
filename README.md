@@ -1,4 +1,4 @@
-# Jose Mamani — Portfolio Final
+# Jose Mamani — Portfolio
 
 Portfolio profesional con React + TypeScript + Vite, preparado para GitHub Pages.
 
