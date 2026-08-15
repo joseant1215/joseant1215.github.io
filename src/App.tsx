@@ -261,7 +261,7 @@ function App() {
             <div className="hero-copy">
               <div className="availability">
                 <span className="pulse" />
-                Disponible · Semi Senior en adelante · Incorporación inmediata
+                Disponible para nuevas oportunidades · Java Backend · Microservicios · Cloud · AI Engineering
               </div>
 
               <p className="eyebrow">SOFTWARE ENGINEER · JAVA BACKEND · LIMA, PERÚ</p>
