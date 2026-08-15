@@ -200,7 +200,7 @@ export const experiences: Experience[] = [
   {
     role: 'Analista Programador Full Stack',
     company: 'Infraestructura Digital en la Nube S.A.C.',
-    period: '2023 — 2024',
+    period: '2023 — 2025',
     meta: 'Lima, Perú',
     summary:
       'Desarrollo de microservicios, aplicaciones cloud y soluciones Full Stack con Java, Azure, AWS y frameworks JavaScript.',

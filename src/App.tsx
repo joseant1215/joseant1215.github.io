@@ -816,7 +816,7 @@ function App() {
               <small>2020 — 2024</small>
               <h3>Ingeniería de Sistemas Computacionales</h3>
               <p>Universidad Privada del Norte</p>
-              <strong>Bachiller</strong>
+              <strong>Título Profesional</strong>
             </div>
             <hr />
             <div className="education-item">
