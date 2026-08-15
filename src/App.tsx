@@ -266,8 +266,8 @@ function App() {
 
               <p className="eyebrow">SOFTWARE ENGINEER · JAVA BACKEND · LIMA, PERÚ</p>
               <h1>
-                Construyo backend robusto.
-                <span>Automatizo lo repetitivo.</span>
+                Convierto complejidad en software confiable.
+                <span>Backend, cloud y automatización inteligente.</span>
               </h1>
 
               <p className="hero-lead">
